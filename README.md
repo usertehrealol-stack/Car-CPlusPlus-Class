@@ -8,7 +8,7 @@ This is just a fun project and relatively for people who are really new to C++!
 See my other projects as well; I made a Python password thingy.
 
 # THE CODE!!
-```
+``` cpp
 // For the lesson, we will create a simple class named Car
 // This is basically for C++ beginners to understand how a class works!!
 
